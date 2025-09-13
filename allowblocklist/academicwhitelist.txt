@@ -1,0 +1,52 @@
+# ===================================================
+# BEYAZ LİSTE (WHITELIST) - AKADEMİK SİTELER
+# ===================================================
+
+# 1. MEŞRU AKADEMİK VE ARAŞTIRMA PLATFORMLARI
+# ---------------------------------------------------
+# Arama Motorları ve Veritabanları
+scholar.google.com
+pubmed.ncbi.nlm.nih.gov
+scopus.com
+webofscience.com
+
+# Yayıncılar
+sciencedirect.com
+springer.com
+onlinelibrary.wiley.com
+nature.com
+sagepub.com
+tandfonline.com
+ieee.org
+acm.org
+cell.com
+
+# Ön Baskı (Preprint) Sunucuları
+arxiv.org
+biorxiv.org
+medrxiv.org
+chemrxiv.org
+
+# ===================================================
+# 2. GÖLGE KÜTÜPHANELER (ALAN ADLARI DEĞİŞKENDİR)
+# ===================================================
+# Bu listeyi güncel tutmak için Reddit (r/scihub), Twitter gibi
+# platformlardaki güncel adresleri takip etmeniz gerekebilir.
+
+# Sci-Hub Sunucuları (Eylül 2025 itibarıyla bilinen bazıları)
+sci-hub.se
+sci-hub.st
+sci-hub.ru
+# TOR Browser için (en kararlı erişim)
+scihub22266oqcxt.onion 
+
+# Library Genesis (LibGen) Sunucuları
+libgen.is
+libgen.rs
+libgen.li
+# TOR Browser için
+libgen.rs'in .onion adresi genellikle ana sayfalarında belirtilir.
+
+# Z-Library
+z-lib.id
+singlelogin.re
