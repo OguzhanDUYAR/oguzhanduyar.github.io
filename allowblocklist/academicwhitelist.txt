@@ -50,3 +50,4 @@ libgen.rs'in .onion adresi genellikle ana sayfalarında belirtilir.
 # Z-Library
 z-lib.id
 singlelogin.re
+fitgirl-repacks.site
