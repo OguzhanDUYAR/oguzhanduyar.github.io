@@ -51,3 +51,4 @@ libgen.rs'in .onion adresi genellikle ana sayfalarında belirtilir.
 z-lib.id
 singlelogin.re
 fitgirl-repacks.site
+https://www.oyunindir.vip/
